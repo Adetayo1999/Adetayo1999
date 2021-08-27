@@ -29,11 +29,11 @@ My Skills
 - Git & GitHub
 - JavaScript
 - React.js
--Next.js
+- Next.js
 - Redux
 - PHP
 - MySQL
--Node.js
+- Node.js
 
 
 When I am not coding, I love playing video games, reading Inspirational books. 
