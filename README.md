@@ -1,45 +1,44 @@
-## 👋 Hello, I am Adetayo Omotomiwa (The Introvert Dev😘)
+# Omotomiwa Adetayo
 
-##	&#x1F4C9; GitHub Stats -- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/adetayo-omotomiwa-4150861b3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com) 
+👋 Hi, I'm Omotomiwa Adetayo, a passionate Frontend Developer with over 3 years of experience in the field. I'm also working on perfecting my knowledge of Backend Development and Blockchain Technology.
 
+📞 **Contact:** +234 (9060780434)  
+📧 **Email:** adetayoomotomiwa99@gmail.com  
+🏠 **Location:** Lagos, Nigeria
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Adetayo1999)
+<!-- 🌐 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com) -->
 
-<a href="https://github.com/Adetayo1999/Adetayo1999">
-  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adetayo1999&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Adetayo1999/Adetayo1999">
-  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=Adetayo1999&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adetayo Omotomiwa's GitHub Stats" />
-</a>  
+## Skills
 
+<!-- GitHub Skill Widgets -->
 
-&#x263A; I am Omotomiwa Software Engineer.
+![React](https://img.shields.io/badge/React-Expert-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-yellow)
+![HTML](https://img.shields.io/badge/HTML-Expert-red)
+![CSS](https://img.shields.io/badge/CSS-Expert-cyan)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-green)
+![NodeJS](https://img.shields.io/badge/NodeJS-Intermediate-green)
+![Solidity](https://img.shields.io/badge/Solidity-Intermediate-purple)
 
-I am a result driven developer looking to
-leverage my experience building responsive and
-scalable web apps to solve problems that
-delight end users.
+- Backend Development: Node.js, Express.js, Learning Golang
+- Blockchain Technology: Solidity, Hardhat, Truffle, Ganache, Web3.js
+- UI/UX Design: Proficient in creating user-friendly interfaces
+- Version Control: Git, GitHub
+- Agile Development: Familiar with Agile methodologies
 
+## GitHub Stats
 
-My Skills
-- HTML
-- CSS
-- Sass
-- Bootstrap
-- Git & GitHub
-- JavaScript
-- React.js
-- Next.js
-- Redux
-- PHP
-- MySQL
-- Node.js
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adetayo1999&show_icons=true)
 
+<!-- ## Recent Activity
 
-When I am not coding, I love playing video games, reading Inspirational books. 
+- 💼 Worked on X open-source projects
+- 📝 Created X pull requests in various repositories
+- 🐛 Reported X issues, helping to improve open-source projects
+- 📦 Committed X changes in X repositories -->
 
-### Get in Touch
-* Personal Website: [omotomiwaadetayo.netlify.app](https://omotomiwaadetayo.netlify.app/)
-* LinkedIn: [Adetayo Omotomiwa](https://www.linkedin.com/in/adetayo-omotomiwa-4150861b3)
-* Twitter: [Adetayo Omotomiwa](https://twitter.com)
+## Connect with Me
 
+📫 Feel free to reach out through [email](mailto:adetayoomotomiwa99@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/adetayo-omotomiwa-4150861b3/).
+
+Let's collaborate and create amazing projects together!
