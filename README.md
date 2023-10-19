@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Omotomiwa Adetayo, a passionate Frontend Developer with over 3 years of experience in the field. I'm also working on perfecting my knowledge of Backend Development and Blockchain Technology.
 
-📞 **Contact:** +234 (9060780434)  
+📞 **Contact:** +234 (7053376569)  
 📧 **Email:** adetayoomotomiwa99@gmail.com  
 🏠 **Location:** Lagos, Nigeria
 
